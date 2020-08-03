@@ -1,0 +1,12 @@
+{
+    "name": "work11/build",
+    "authors": [
+        {
+            "name": "Pavel Paliy",
+            "email": "paliipavel@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
